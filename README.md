@@ -1,7 +1,6 @@
 - 👋 <strong>Oi ! Meu nome é Jean Palhano.</strong>
 - 🌱 <strong>Estou iniciando meus estudos em HTML5, CSS e Javascript.</strong>
-- 💬 <strong>Meu objetivo não é somente aprender, mais também ensinar. <br>(o que eu souber 😂)</strong>
-##
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=palhanojean&show_icons=true&theme=merko)
 <div
 <div style="display: inline_block"><br>
